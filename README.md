@@ -1,1 +1,1 @@
-# virus-game
+# A Simple Virus Game
